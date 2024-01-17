@@ -1,5 +1,9 @@
 package frc.robot.Comandos;
 
-public class ChasisCmd {
+
+import edu.wpi.first.wpilibj2.command.Command;
+import edu.wpi.first.wpilibj2.command.SubsystemBase;
+
+public class ChasisCmd extends Command{
     
 }
